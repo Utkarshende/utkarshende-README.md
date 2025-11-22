@@ -50,4 +50,4 @@ LinkedIn: https://www.linkedin.com/in/utkarsha-shende-344b57231/
 
 Portfolio: https://utkarshasportfolio.netlify.app/
 
-Email: utkarshende@email.com
+Email: utkarshende@gmail.com
