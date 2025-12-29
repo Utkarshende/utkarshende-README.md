@@ -25,12 +25,6 @@ I am a Full Stack Developer focused on building robust backends and interactive 
 
 ---
 
-### 📊 GitHub Stats
-![Utkarsha's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Utkarshende&show_icons=true&theme=radical)
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshende&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** (https://www.linkedin.com/in/utkarsha-shende-344b57231/)
 - **Portfolio:** (https://utkarsha-s-portfolio.netlify.app/)
