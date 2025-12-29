@@ -22,6 +22,8 @@ I am a Full Stack Developer focused on building robust backends and interactive 
 - **[Personal Portfolio ](https://github.com/Utkarshende/personal-portfolio):** A high-end MERN portfolio with a custom Contact API.
 - **[Pro-Tasker ](https://github.com/Utkarshende/pro-tasker):** ProTasker is a minimalist, high-performance Full-Stack Kanban Management Tool designed for modern workflows. It allows users to organize projects and tasks through an intuitive drag-and-drop interface.
 - **[Mern Blog ](https://github.com/Utkarshende/mern-blog):** A high-end, aesthetic blogging platform built with the MERN stack. Designed for writers who appreciate a clean, dark-themed workspace with real-time Markdown feedback and private draft management.
+- - **[Mern Api Chat ](https://github.com/Utkarshende/mern-chat-api):** VibeChat is a modern, real-time chat application built with the MERN stack. It features persistent chat history using Firebase Firestore, secure Google Authentication, and real-time typing indicators powered by Socket.io.
+  - - **[Mern To-Do List ](https://github.com/Utkarshende/mern-todo-list):** TaskFlow is a modern, full-stack Todo application built using the MERN (MongoDB, Express, React, Node.js) stack. It features a clean UI, secure authentication, and real-time task management.
 
 ---
 
