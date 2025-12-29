@@ -19,15 +19,15 @@ I am a Full Stack Developer focused on building robust backends and interactive 
 
 ### 🚀 Featured Projects
 
-- **[Portfolio V2](https://github.com/Utkarshende/personal-portfolio):** A high-end MERN portfolio with a custom Contact API.
-- **[Pro-Tasker](https://github.com/Utkarshende/pro-tasker):** ProTasker is a minimalist, high-performance Full-Stack Kanban Management Tool designed for modern workflows. It allows users to organize projects and tasks through an intuitive drag-and-drop interface.
-- **[Mern Blog](https://github.com/Utkarshende/mern-blog):** A high-end, aesthetic blogging platform built with the MERN stack. Designed for writers who appreciate a clean, dark-themed workspace with real-time Markdown feedback and private draft management.
+- **[Personal Portfolio ](https://github.com/Utkarshende/personal-portfolio):** A high-end MERN portfolio with a custom Contact API.
+- **[Pro-Tasker ](https://github.com/Utkarshende/pro-tasker):** ProTasker is a minimalist, high-performance Full-Stack Kanban Management Tool designed for modern workflows. It allows users to organize projects and tasks through an intuitive drag-and-drop interface.
+- **[Mern Blog ](https://github.com/Utkarshende/mern-blog):** A high-end, aesthetic blogging platform built with the MERN stack. Designed for writers who appreciate a clean, dark-themed workspace with real-time Markdown feedback and private draft management.
 
 ---
 
 ### 📊 GitHub Stats
-![Utkarsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshende&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshende&layout=compact&theme=radical)
+![Utkarsha's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Utkarshende&show_icons=true&theme=radical)
+![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshende&layout=compact&theme=radical)
 
 ---
 
